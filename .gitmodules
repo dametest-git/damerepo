@@ -1,0 +1,3 @@
+[submodule "repo/repository.openwizard"]
+	path = repo/repository.openwizard
+	url = https://github.com/a4k-openproject/repository.openwizard
